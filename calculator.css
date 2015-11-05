@@ -1,7 +1,7 @@
 .calculator {
     color: #ffffff;
     font-family: "微软雅黑", serif;
-    font-size: 16px;
+    font-size: 23px;
 }
 
 div.calculator.outer {
@@ -27,9 +27,9 @@ input.calculator.screen {
 
 div.calculator.key {
     width: 60px;
-    height: 40px;
+    height: 45px;
     margin: 4px 5px;
-    padding-top: 20px;
+    padding-top: 15px;
     text-align: center;
     background-color: #0260a0;
     position: relative;
